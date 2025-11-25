@@ -2,8 +2,6 @@
 
 Landing page moderna e responsiva desenvolvida para a **Pague Safe**, um gateway de pagamentos de alta conversão com foco em segurança, saque rápido e alta taxa de aprovação.
 
-**Repositório**: [https://github.com/anthonymengottii/paguesafe_landingpage](https://github.com/anthonymengottii/paguesafe_landingpage)
-
 ## 📋 Sobre o Projeto
 
 A Pague Safe é uma plataforma de pagamentos que oferece soluções completas para e-commerce e infoprodutos, incluindo checkout personalizável, múltiplos métodos de pagamento (PIX, Cartão de Crédito, Boleto), sistema antifraude eficiente e suporte 24/7.
