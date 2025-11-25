@@ -179,7 +179,9 @@ Este é um projeto privado. Para sugestões ou problemas, entre em contato atrav
 
 ## 🎨 Créditos
 
-O design e identidade visual desta landing page foram desenvolvidos pela **[Dinamite Criativa](https://dinamitecriativa.com.br/)**, um estúdio internacional de design com ampla experiência em projetos para empresas de diferentes setores e mercados.
+- **Design e Identidade Visual**: O design e identidade visual desta landing page foram desenvolvidos pela **[Dinamite Criativa](https://dinamitecriativa.com.br/)**, um estúdio internacional de design com ampla experiência em projetos para empresas de diferentes setores e mercados.
+
+- **Primeira Versão**: A primeira versão desta landing page foi desenvolvida e publicada no repositório **[Anderson-Soares-Martins/pague-safe-project](https://github.com/Anderson-Soares-Martins/pague-safe-project)**. Agradecimentos especiais aos contribuidores da versão inicial.
 
 ---
 
