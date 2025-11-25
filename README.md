@@ -169,12 +169,6 @@ Este projeto é privado e proprietário da Pague Safe.
 
 Este é um projeto privado. Para sugestões ou problemas, entre em contato através da página de contato.
 
-## 📞 Contato
-
-- **Website**: [https://paguesafe.io](https://paguesafe.io)
-- **App**: [https://app.paguesafe.io](https://app.paguesafe.io)
-- **WhatsApp**: Disponível na página de contato
-
 ## 🎨 Créditos
 
 - **Design e Identidade Visual**: O design e identidade visual desta landing page foram desenvolvidos pela **[Dinamite Criativa](https://dinamitecriativa.com.br/)**, um estúdio internacional de design com ampla experiência em projetos para empresas de diferentes setores e mercados.
