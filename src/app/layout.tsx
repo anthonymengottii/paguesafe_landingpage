@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import logoBar from "@/app/assets/logoBar.webp";
 import logo from "@/app/assets/Logo.svg";
-import Metadata from "next";
+import type { Metadata } from "next";
 import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
